@@ -1,0 +1,1 @@
+HyperSkill Python path projects https://hyperskill.org/courses/2-python-developer
